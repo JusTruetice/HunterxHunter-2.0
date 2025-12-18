@@ -76,7 +76,7 @@ A Hunter must be connected.
 Netero needs proof.
 
 1.  In the `#bio` section, add an `<img>` of your Image(because its your bio) or any image(use a relative path like `images/gon.jpg`).
-      * Add `alt="Applicant Face"` and a `title="Applicant #405"`.
+      * Add `alt="Applicant Face"` and a `title="Applicant #440055ff"`.
       * Set `width="250"` and `height="250"`.
 2.  **Image Link:** Wrap the image in an `<a>` tag so that clicking your face takes the user to the top of the page (`#`).
 
